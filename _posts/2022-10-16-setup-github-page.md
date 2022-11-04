@@ -25,7 +25,14 @@ bundle exec jekyll serve # this command will be loading changes automatically
 ## [How to add page and posts](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll)
 * https://jekyllrb.com/docs/posts/
 
-
+## How to start with Liquid template
+https://jekyllrb.com/docs/step-by-step/02-liquid/
+Don't forget to add front matter to the top of the page:
+```
+---
+# front matter tells Jekyll to process Liquid
+---
+```
 
 ## [Adding a theme](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
 
