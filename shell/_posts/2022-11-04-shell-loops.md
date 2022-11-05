@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Shell loops
-date:   2022-11-04 22:02:00 +0800
+title:  Shell Loops
+date:   2022-11-05 00:15:00 +0800
 categories: shell
 ---
 
