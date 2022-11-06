@@ -2,7 +2,7 @@
 layout: post
 title:  "Python library - fire"
 date:   2022-10-16 02:25:00 +0800
-categories: python library fire
+categories: python library
 ---
 
 # Python Fire

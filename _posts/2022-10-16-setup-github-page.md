@@ -22,8 +22,21 @@ bundle exec jekyll serve # this command will be loading changes automatically
 ```
 
 
-## [How to add page and posts](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll)
+## How to add page and posts
+* https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll
+
+#### Pages
+* https://jekyllrb.com/docs/pages/
+
+#### Posts
 * https://jekyllrb.com/docs/posts/
+
+#### Work with drafts
+* How to add drafts https://jekyllrb.com/docs/posts/#drafts
+* Local test with drafts
+    ```sh
+    bundle exec jekyll serve --drafts
+    ```
 
 ## How to start with Liquid template
 https://jekyllrb.com/docs/step-by-step/02-liquid/
