@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Python IoC/DI"
-date:   2024-05-08 16:00:00 +0800
-categories: CS Python IoC DI
+date:   2024-05-14 15:00:00 +0800
+categories: Python IoC DI
 ---
 
 ## 为什么IOC/DI在Python中没有Java那么流行?
