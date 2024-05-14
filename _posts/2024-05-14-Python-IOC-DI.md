@@ -54,3 +54,4 @@ Python提供了更加灵活的构建系统和使用系统的方式:
 * https://stackoverflow.com/questions/2461702/why-is-ioc-di-not-common-in-python
 * https://stackoverflow.com/questions/2273683/why-are-ioc-containers-unnecessary-with-dynamic-languages
 * https://stackoverflow.com/questions/31678827/what-is-a-pythonic-way-for-dependency-injection
+* https://python-dependency-injector.ets-labs.org/introduction/di_in_python.html
